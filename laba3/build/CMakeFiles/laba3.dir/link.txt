@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/laba3.dir/main.cpp.o CMakeFiles/laba3.dir/src/farray.cpp.o CMakeFiles/laba3.dir/src/point.cpp.o CMakeFiles/laba3.dir/src/figure.cpp.o CMakeFiles/laba3.dir/src/trapezoid.cpp.o CMakeFiles/laba3.dir/src/rhomb.cpp.o CMakeFiles/laba3.dir/src/pentagon.cpp.o -o laba3 

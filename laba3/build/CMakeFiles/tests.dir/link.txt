@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/tests.dir/tests.cpp.o CMakeFiles/tests.dir/src/farray.cpp.o CMakeFiles/tests.dir/src/point.cpp.o CMakeFiles/tests.dir/src/figure.cpp.o CMakeFiles/tests.dir/src/trapezoid.cpp.o CMakeFiles/tests.dir/src/rhomb.cpp.o CMakeFiles/tests.dir/src/pentagon.cpp.o -o tests  /usr/local/lib/libgtest.a 
