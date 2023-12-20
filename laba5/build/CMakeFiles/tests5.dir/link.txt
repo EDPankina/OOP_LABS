@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/tests5.dir/tests/allocator_tests.cpp.o CMakeFiles/tests5.dir/tests/vector_tests.cpp.o -o tests5  /usr/local/lib/libgtest.a /usr/local/lib/libgtest_main.a /usr/local/lib/libgmock.a /usr/local/lib/libgmock_main.a /usr/local/lib/libgmock.a /usr/local/lib/libgtest.a 
