@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/lab07_test.exe.dir/test/tests.cpp.o -o lab07_test.exe  liblab07_lib.a -lgtest -lgtest_main 

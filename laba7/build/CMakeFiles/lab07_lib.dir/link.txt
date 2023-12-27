@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblab07_lib.a CMakeFiles/lab07_lib.dir/src/battlefield.cpp.o CMakeFiles/lab07_lib.dir/src/bear.cpp.o CMakeFiles/lab07_lib.dir/src/npc.cpp.o CMakeFiles/lab07_lib.dir/src/orc.cpp.o CMakeFiles/lab07_lib.dir/src/squirell.cpp.o
+/usr/bin/ranlib liblab07_lib.a
